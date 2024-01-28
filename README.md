@@ -11,7 +11,7 @@ History Tracking: Tracks changes in the product listing, alerting users to new a
 The application operates by navigating through the GE Healthcare Devices webpage and extracting relevant information about each product. This includes details such as product name, description, and any other pertinent information available on the webpage. The scraped data is then compiled into a structured format for easy access and analysis.
 
 ## Dependencies
-Python 3.x
+Python
 Selenium
 
 ## Disclaimer
